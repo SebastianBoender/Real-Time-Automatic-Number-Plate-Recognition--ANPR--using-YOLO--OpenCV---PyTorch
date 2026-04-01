@@ -8,6 +8,13 @@ Please keep in mind that the dataset only contains Dutch license plates. Which d
 
 ---
 
+# DEMO VIDEO:
+
+https://www.youtube.com/watch?v=pmAMmdShsz8
+
+
+---
+
 ## OCR Dataset (Character Detection)
 
 Used for recognizing individual license plate characters:
